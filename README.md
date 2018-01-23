@@ -1,3 +1,3 @@
-## ES6 Tutorial
+## Mortgage calculator
 
-Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
+Midax
